@@ -12,7 +12,7 @@ class Article extends Equatable {
   final int views;
   final DateTime createdAt;
 
-  Article(
+  const Article(
       {required this.id,
       required this.title,
       required this.subtitle,

@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'News Application',
       theme: ThemeData(
         primarySwatch: Colors.grey,
+        fontFamily: "Nunito"
       ),
       initialRoute: '/',
       routes: {
