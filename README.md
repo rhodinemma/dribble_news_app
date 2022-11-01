@@ -1,16 +1,14 @@
-# news_app
+# Dribble -> Flutter[News Application]
 
-A new Flutter project.
+Building a news mobile application user interface from a design based off Dribble
 
-## Getting Started
+https://dribbble.com/shots/15193792-News-iOS-mobile-app/
 
-This project is a starting point for a Flutter application.
+- Exploring how to setup and use routes in navigation
+- Bottom navigation bar
+- Working with appBars
+- Writing reusable code
+- Working with the ListView widget.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot_20221031-181444](https://user-images.githubusercontent.com/63339234/199161641-e5f3123b-c5e7-4242-93b4-131429b6ec9e.jpg)
